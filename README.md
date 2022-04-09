@@ -11,7 +11,7 @@
   - [Licenses](#licenses)
 
   ## Description
-  Fun command line application created to develop my knowledge of test implementation using Jest, OOP structure, ES6 syntax, and inheritance.
+  Fun command line game application created to develop my knowledge of test implementation using Jest, OOP structure, ES6 syntax, and inheritance.
 
   ## Installation
   Clone respository and download required dependencies. Application is then run from the command line.
