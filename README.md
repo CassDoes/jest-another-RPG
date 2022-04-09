@@ -24,13 +24,10 @@
   Contributors for source code can be viewed under ABOUT section to the right of this README.
 
   ## Contribute 
-  Please reach out via either of the following links with any questions, including ways in which
-  you can contribute to this project!
-
   | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes) |
   | :-: |
   | NONE |
-  | **Cassandra Hardin** |
+  | **Cassandra DOES** |
 
   ## Tests
   Code created for testing purposes is in the root repository file __tests__ and can be viewed there.
