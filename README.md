@@ -5,7 +5,6 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credit](#credit)
   - [Contribute](#contribute)
   - [Tests](#tests)
   - [Licenses](#licenses)
@@ -18,10 +17,6 @@
 
   ## Usage
   This project was soley created to increase my own knowledge and will be abandoned after it is complete.
-
-  
-  ## Credit  
-  Contributors for source code can be viewed under ABOUT section to the right of this README.
 
   ## Contribute 
   | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes) |
